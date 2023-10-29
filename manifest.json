@@ -1,11 +1,11 @@
 {
 	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"name": "Time Plugin",
+	"version": "1.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Insert the current date and time in summary photos to aid in identifying the information captured in your college study materials. This will facilitate the organization and retrieval of photos you couldn't copy and help track drawings or notes that need to be completed at a later time.",
+	"author": "Schoal",
+	"authorUrl": "https://www.instagram.com/schoal/",
+	"fundingUrl": "https://github.com/SchoaI/Time",
 	"isDesktopOnly": false
 }
